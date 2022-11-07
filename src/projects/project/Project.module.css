@@ -1,0 +1,38 @@
+.project {
+    width: 300px;
+    text-align: center;
+    background-color: #3d3d3d;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.projectContainer {
+    padding: 60px 30px 90px;
+}
+
+.photo {
+    border-radius: 10px;
+}
+
+.readmore {
+    width: 100%;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    font-family: 'Oswald',sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #3d3d3d;
+    border-radius: 0 0 10px 10px;
+}
+
+.readmore:hover {
+    transition: all 0.3s ease-in-out;
+    color: black;
+    background-color: #f1c311;
+}
+

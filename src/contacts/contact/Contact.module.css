@@ -1,0 +1,17 @@
+.contact {
+    width: 250px;
+    border-right: 2px solid #e8eaf6;
+    margin-bottom: 50px;
+}
+
+.contact:last-child {
+    border-right: none;
+}
+
+.title {
+    font-weight: 700;
+    padding-top: 20px;
+    color: #37474f;
+    font-size: 25px;
+    text-transform: uppercase;
+}

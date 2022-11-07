@@ -1,0 +1,9 @@
+.footerBlock {
+    height: 80px;
+    background-color: #3d3d3d;
+}
+
+.footerContainer {
+    display: flex;
+    justify-content: space-between;
+}

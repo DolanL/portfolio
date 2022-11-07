@@ -1,0 +1,17 @@
+.nav {
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navItem {
+    color: #3d3d3d;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.navItem:hover {
+    color: white;
+}
